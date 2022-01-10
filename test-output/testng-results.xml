@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-10T15:54:30 EST" name="Sauce Labs Browser Testing" finished-at="2022-01-10T15:55:06 EST" duration-ms="36393">
+    <groups>
+    </groups>
+    <test started-at="2022-01-10T15:54:30 EST" name="Sauce Chrome" finished-at="2022-01-10T15:54:57 EST" duration-ms="27012">
+      <class name="svc.Sauce_Lab2.SauceTest">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method)[pri:0, instance:svc.Sauce_Lab2.SauceTest@3a6bb9bf]" started-at="2022-01-10T15:54:30 EST" name="setUp" finished-at="2022-01-10T15:54:38 EST" duration-ms="8447" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[macOS 11.00]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[95]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[oauth-slomochacko242-d2816]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[96322933-d79d-4cc3-bb55-fcf8e756afb4]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[public void svc.Sauce_Lab2.SauceTest.checkInventoryItem()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkInventoryItem()[pri:1, instance:svc.Sauce_Lab2.SauceTest@3a6bb9bf]" started-at="2022-01-10T15:54:38 EST" name="checkInventoryItem" finished-at="2022-01-10T15:54:43 EST" duration-ms="4453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkInventoryItem -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:svc.Sauce_Lab2.SauceTest@3a6bb9bf]" started-at="2022-01-10T15:54:43 EST" name="tearDown" finished-at="2022-01-10T15:54:43 EST" duration-ms="378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method)[pri:0, instance:svc.Sauce_Lab2.SauceTest@3a6bb9bf]" started-at="2022-01-10T15:54:43 EST" name="setUp" finished-at="2022-01-10T15:54:52 EST" duration-ms="9038" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[macOS 11.00]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[95]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[oauth-slomochacko242-d2816]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[96322933-d79d-4cc3-bb55-fcf8e756afb4]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[public void svc.Sauce_Lab2.SauceTest.checkAddToCartButton()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkAddToCartButton()[pri:2, instance:svc.Sauce_Lab2.SauceTest@3a6bb9bf]" started-at="2022-01-10T15:54:52 EST" name="checkAddToCartButton" finished-at="2022-01-10T15:54:56 EST" duration-ms="4287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAddToCartButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:svc.Sauce_Lab2.SauceTest@3a6bb9bf]" started-at="2022-01-10T15:54:56 EST" name="tearDown" finished-at="2022-01-10T15:54:57 EST" duration-ms="340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- svc.Sauce_Lab2.SauceTest -->
+    </test> <!-- Sauce Chrome -->
+    <test started-at="2022-01-10T15:54:30 EST" name="Sauce FireFox" finished-at="2022-01-10T15:55:06 EST" duration-ms="36393">
+      <class name="svc.Sauce_Lab2.SauceTest">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method)[pri:0, instance:svc.Sauce_Lab2.SauceTest@25084a1e]" started-at="2022-01-10T15:54:30 EST" name="setUp" finished-at="2022-01-10T15:54:45 EST" duration-ms="15148" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[95]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[oauth-slomochacko242-d2816]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[96322933-d79d-4cc3-bb55-fcf8e756afb4]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[public void svc.Sauce_Lab2.SauceTest.checkInventoryItem()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkInventoryItem()[pri:1, instance:svc.Sauce_Lab2.SauceTest@25084a1e]" started-at="2022-01-10T15:54:45 EST" name="checkInventoryItem" finished-at="2022-01-10T15:54:49 EST" duration-ms="3841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkInventoryItem -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:svc.Sauce_Lab2.SauceTest@25084a1e]" started-at="2022-01-10T15:54:49 EST" name="tearDown" finished-at="2022-01-10T15:54:49 EST" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method)[pri:0, instance:svc.Sauce_Lab2.SauceTest@25084a1e]" started-at="2022-01-10T15:54:49 EST" name="setUp" finished-at="2022-01-10T15:55:02 EST" duration-ms="13159" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[95]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[oauth-slomochacko242-d2816]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[96322933-d79d-4cc3-bb55-fcf8e756afb4]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[public void svc.Sauce_Lab2.SauceTest.checkAddToCartButton()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkAddToCartButton()[pri:2, instance:svc.Sauce_Lab2.SauceTest@25084a1e]" started-at="2022-01-10T15:55:02 EST" name="checkAddToCartButton" finished-at="2022-01-10T15:55:06 EST" duration-ms="3755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAddToCartButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:svc.Sauce_Lab2.SauceTest@25084a1e]" started-at="2022-01-10T15:55:06 EST" name="tearDown" finished-at="2022-01-10T15:55:06 EST" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- svc.Sauce_Lab2.SauceTest -->
+    </test> <!-- Sauce FireFox -->
+  </suite> <!-- Sauce Labs Browser Testing -->
+</testng-results>
